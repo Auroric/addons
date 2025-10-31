@@ -1,9 +1,5 @@
 # Changelog
 
-## 12.5.4
-
-- Fix invalid inverted commas in server signing parameter
-
 ## 12.5.3
 
 - Add option for setting server signing parameter
